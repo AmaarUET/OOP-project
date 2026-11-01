@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\common\\modelstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|solutionrelative:project\\common\\modelstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|c:\\users\\user\\desktop\\uet books\\c#\\oop project\\project\\uistudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|solutionrelative:project\\uistudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|solutionrelative:project\\studentservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentrepositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F066E35E-047C-4E94-A8D5-28901D76D4D8}|project\\project.csproj|solutionrelative:project\\studentrepositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentservice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentservices\\studentservice.cs",
+              "RelativeDocumentMoniker": "project\\studentservices\\studentservice.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentservices\\studentservice.cs",
+              "RelativeToolTip": "project\\studentservices\\studentservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:30:23.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studentrepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentrepositories\\studentrepository.cs",
+              "RelativeDocumentMoniker": "project\\studentrepositories\\studentrepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\studentrepositories\\studentrepository.cs",
+              "RelativeToolTip": "project\\studentrepositories\\studentrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:33:59.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uistudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\uistudent.cs",
+              "RelativeDocumentMoniker": "project\\uistudent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\uistudent.cs",
+              "RelativeToolTip": "project\\uistudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T03:20:58.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modelstudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\common\\modelstudent.cs",
+              "RelativeDocumentMoniker": "project\\common\\modelstudent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\UET books\\c#\\oop project\\project\\common\\modelstudent.cs",
+              "RelativeToolTip": "project\\common\\modelstudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T22:51:20.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

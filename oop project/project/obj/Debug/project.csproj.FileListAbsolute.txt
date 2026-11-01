@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\UET books\c#\project\project\bin\Debug\project.exe.config
+C:\Users\User\Desktop\UET books\c#\project\project\bin\Debug\project.exe
+C:\Users\User\Desktop\UET books\c#\project\project\bin\Debug\project.pdb
+C:\Users\User\Desktop\UET books\c#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UET books\c#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UET books\c#\project\project\obj\Debug\project.exe
+C:\Users\User\Desktop\UET books\c#\project\project\obj\Debug\project.pdb
